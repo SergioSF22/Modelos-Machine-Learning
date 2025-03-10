@@ -45,8 +45,8 @@ Los modelos en este repositorio fueron entrenados con las siguientes herramienta
 
 Este repositorio es mantenido por un estudiante apasionado por la inteligencia artificial y el aprendizaje automático. Si deseas conocer más sobre su trabajo o contactar para oportunidades laborales, puedes encontrarlo en:
 
-- 📧 Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 🔗 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- 📧 Email: [sftrabajos2343@gmail.com](mailto:sftrabajos2343@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/sergiosf22](https://www.linkedin.com/in/sergiosf22/)
 
 
 🌟 Si te interesa el trabajo realizado en este repositorio, no dudes en contactarme. ¡Gracias por visitar mi portafolio! 😊
