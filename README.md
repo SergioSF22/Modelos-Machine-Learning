@@ -43,7 +43,7 @@ Los modelos en este repositorio fueron entrenados con las siguientes herramienta
 
 ## 💼 Acerca del Autor
 
-Este repositorio es mantenido por un estudiante apasionado por la inteligencia artificial y el aprendizaje automático. Si deseas conocer más sobre su trabajo o contactar para oportunidades laborales, puedes encontrarlo en:
+Este repositorio es mantenido por un estudiante apasionado por la inteligencia artificial y el aprendizaje automático. Si deseas conocer más sobre mi trabajo o contactar para oportunidades laborales, puedes encontrarme en:
 
 - 📧 Email: [sftrabajos2343@gmail.com](mailto:sftrabajos2343@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/sergiosf22](https://www.linkedin.com/in/sergiosf22/)
