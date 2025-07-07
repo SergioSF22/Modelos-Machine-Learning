@@ -9,6 +9,8 @@ Este repositorio contiene modelos entrenados en diversas arquitecturas y conjunt
 📂 modelos/
    ├── 📁 Arbol de decision/
    │    └── ...
+   ├── 📁 Redes neuronales/
+   │    └── ...
    ├── 📁 Regresion lineal simple/
    │    └── ...
    ├── 📁 Regresion lineal multiple/
@@ -40,6 +42,7 @@ Los modelos en este repositorio fueron entrenados con las siguientes herramienta
 - Numpy / Pandas
 - Scikit-learn
 - Seaborn / Mathplotlib
+- Tensorflow y keras
 
 ## 💼 Acerca del Autor
 
